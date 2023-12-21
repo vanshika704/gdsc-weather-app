@@ -10,7 +10,7 @@ class GetStarted extends StatelessWidget {
         image: DecorationImage(
           image: AssetImage("assets/background.png"),
           fit: BoxFit.cover,
-        ),//.
+        ),
       ),
       child: Scaffold(
         appBar: AppBar(
