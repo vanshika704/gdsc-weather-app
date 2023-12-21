@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 class GetStarted extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    final width = MediaQuery.of(context).size.width;
+    final width = MediaQuery.of(context).size.width;//.
 
     return Container(
       decoration: const BoxDecoration(
