@@ -9,7 +9,7 @@ class GetStarted extends StatelessWidget {
       decoration: const BoxDecoration(
         image: DecorationImage(
           image: AssetImage("assets/background.png"),
-          fit: BoxFit.cover,
+          fit: BoxFit.cover,//.
         ),
       ),
       child: Scaffold(
